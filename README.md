@@ -16,7 +16,7 @@ Program ini tentu dapat dijalankan oleh semua orang tanpa memandang ras ataupun 
 Program dapat berjalan pada sistem operasi Windows.
 
 ## Cara Menjalankan Program
-Program dapat dijalankan dengan mengklik file 24game.exe yang berada di folder "bin" dan ikuti perintah programnya.
+Program dapat dijalankan dengan mengklik file 24game.exe sebanyak 2x yang berada di folder "bin" dan ikuti perintah programnya yaks.
 
 ## Identitas Pembuat
 Pembuat adalah seorang yang baik hati tapi sayangnya tidak rajin menabung dan sangad sombong.
